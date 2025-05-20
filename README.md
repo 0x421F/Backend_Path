@@ -31,7 +31,6 @@ This repository will follow the structure of the "Back End Developer Learning Pa
 15. **Firebase -- Full Course for Beginners** (3:44:51)
 16. **(A) NGINX Tutorial for Beginners** (51:03)
 17. **Redis Course - In-Memory Database Tutorial**
-    *(Note: Additional videos may be part of the 19-video playlist.)*
 
 ---
 
@@ -45,7 +44,6 @@ While the learning path covers a broad range of topics, the FreeCodeCamp Backend
 4.  **Exercise Tracker**
 5.  **File Metadata Microservice**
 
-*(You can adjust this section if your focus is on different projects based on the broader learning path).*
 
 ---
 
